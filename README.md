@@ -1,7 +1,5 @@
-#Portfolio
+# Portfolio README
+Very very minimalist portfolio😂 inspired by Hugo Striedinger
 
-This very minimalist portfolio is inspired by Hugo Striedinger😁
 Stack:
-
-HTML
-CSS
+HTML, CSS
